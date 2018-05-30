@@ -1,0 +1,43 @@
+h1 {
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+}
+
+p {
+    font-family: "Droid Serif", serif;
+    line-height: 26px;
+    font-size: 18px;
+}
+
+body {
+    text-align: center;
+}
+
+.memory_game {
+    font-family: RALEWAY;
+    color: #0D2C40;
+    letter-spacing: 1px;
+    font-weight: 400;
+    font-size: 45px;
+}
+
+.instruc_title {
+    font-family: RALEWAY;
+    color: #0D2C40;
+    letter-spacing: 1px;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+a {
+    text-decoration-line: none;
+    font-family: Raleway;
+    color: #F15B31;
+    letter-spacing: 1px;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+ul {
+    list-style: none;
+}
